@@ -3,7 +3,6 @@
 - 🌱 I’m currently learning Full-stack developer 
 - 💞️ I’m looking to collaborate on Ml
 - 📫 How to reach me nasereda119@gmail.com
-- 😄 Pronouns : Male
 
 
 <!---
