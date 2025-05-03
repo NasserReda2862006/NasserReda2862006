@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Nasser reda
 - 👀 I’m interested in Graphic design 
-- 🌱 I’m currently learning Full-stack developer 
+- 🌱 I’m currently learning Full-stack development 
 - 💞️ I’m looking to collaborate on Ml
 - 📫 How to reach me nasereda119@gmail.com
 
